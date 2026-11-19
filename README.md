@@ -6,6 +6,8 @@ Livro de poesia publicado em edição impressa e e-book pela PerSe.
 
 ## Conheça e adquira
 
+- **Apresentação do autor:** [Um primeiro passo](APRESENTACAO.md) · [Publicação no site](https://nissieloeulirico.wordpress.com/2026/11/19/um-primeiro-passo-coracao/)
+
 - **Página oficial de compra na PerSe:** https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604
 - **Apresentação no site do autor:** https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
 - **Site oficial:** https://nissieloeulirico.wordpress.com/
