@@ -25,7 +25,7 @@ A edição gratuita permite conhecer a obra por inteiro. A aquisição da ediç�
 - Autor: Nissiel, O Eulírico
 - Título: Coração
 - Subtítulo: Quatro movimentos, um só pulsar
-- Edição digital gratuita: PDF integral, versão definitiva de 20/11/2026
+- Edição digital gratuita: PDF integral, versão definitiva de 20/11/2026\n- ISBN do e-book: 978-65-02-53759-6 (não se aplica à edição impressa)
 - Extensão: 108 páginas no PDF definitivo
 - Edição comercial: impressa e e-book pela PerSe
 
